@@ -261,7 +261,7 @@ The Memento configuration directory is located at:
 
 Version 0.5.1 and later
 ```
-%APPDATA%\Local\memento
+%LOCALAPPDATA%\memento
 ```
 
 Version 0.5.0-1 and earlier
